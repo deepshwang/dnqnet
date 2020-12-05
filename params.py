@@ -61,7 +61,7 @@ def argument_parser():
 
 	parser.add_argument('--model', type=str,
 						default='DnQ',
-						choices=['DnQ', 'ResidualDnQ', 'CNN', 'VGG19', 'ResNet50'],
+						choices=['DnQ', 'ResidualDnQ', 'CNN', 'VGG19', 'ResNet50', 'C8SteerableCNN', 'C16SteerableCNN'],
 						help='type of model to train')
 
 
@@ -108,8 +108,6 @@ def argument_parser():
 					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
 					# default='./data/saved_models/checkpoint.pth.tar',
 					help='visualizing model state dict')
-
-
 
 
 

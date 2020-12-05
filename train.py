@@ -48,8 +48,10 @@ class Trainer():
 
                 self.optimizer.zero_grad()
 
-                outputs, equi_feat, inv_feat = self.model(inputs)
-
+                if args.model in ["C8SteerableCNN", "C16SteerableCNN"]:
+                    outputs = self.model(inputs)
+                else:
+                    outputs, equi_feat, inv_feat = self.model(inputs)
 
                 loss = self.criterion(outputs, labels)
 
@@ -84,7 +86,10 @@ class Trainer():
                 inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                outputs, equi_feat, inv_feat = self.model(inputs)
+                if args.model in ["C8SteerableCNN", "C16SteerableCNN"]:
+                    outputs = self.model(inputs)
+                else:
+                    outputs, equi_feat, inv_feat = self.model(inputs)
                 loss = self.criterion(outputs, labels)
 
 
@@ -130,8 +135,10 @@ class Trainer():
             inputs = inputs.to(self.device)
             labels = labels.to(self.device)
 
-
-            output, equi_feat, inv_feat = model(inputs)
+            if args.model in ["C8SteerableCNN", "C16SteerableCNN"]:
+                output = self.model(inputs)
+            else:
+                output, equi_feat, inv_feat = self.model(inputs)
 
             pred = output.max(1, keepdim=True)[1]  # get the index of the max
 
@@ -153,7 +160,7 @@ class Trainer():
 
 if __name__ == '__main__':
     args = argument_parser()
-
+    print("Loading model", args.model, "... train: ", args.train_dataset, " | test: ", args.test_dataset)
     if args.model == 'VGG19':
         model = VGG19(CLASSIFIER_CFGS_VGG19['A'])
     elif args.model == 'ResNet50':
@@ -166,6 +173,12 @@ if __name__ == '__main__':
         model = DnQNet(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['B'])
     elif args.model == 'ResidualDnQ':
         model = DnQNet(args, MODEL_CFGS_V3['G'], CLASSIFIER_CFGS['B'], residual=True)
+    elif args.model == 'C8SteerableCNN':
+        from models.C8SteerableCNN import C8SteerableCNN
+        model = C8SteerableCNN(n_classes=10, num_rot=8)
+    elif args.model == 'C16SteerableCNN':
+        from models.C8SteerableCNN import C8SteerableCNN
+        model = C8SteerableCNN(n_classes=10, num_rot=16)
 
 
     if args.train_dataset == 'MNIST':
