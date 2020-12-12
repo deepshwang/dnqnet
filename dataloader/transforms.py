@@ -2,6 +2,8 @@ import torch
 import torchvision
 from params import argument_parser
 import torchvision.transforms.functional as TF
+import PIL
+import pdb
 
 
 class posConcat(object):
@@ -51,11 +53,12 @@ class CircularMask(object):
 class Rotation:
     """Rotate by one of the given angles."""
 
-    def __init__(self, angle):
+    def __init__(self, angle, resample):
         self.angle = angle
+        self.resample = resample
 
     def __call__(self, x):
-        return TF.rotate(x, self.angle)
+        return TF.rotate(x, self.angle, expand=True, resample=self.resample)
 
 class expandChannel(object):
     """
@@ -71,6 +74,10 @@ class expandChannel(object):
 
 args = argument_parser()
 
+# INTER_METHOD = PIL.Image.NEAREST
+INTER_METHOD = PIL.Image.BILINEAR
+
+
 T_MNIST_GDCAL32 = torchvision.transforms.Compose([torchvision.transforms.ToTensor(),
                                           torchvision.transforms.Resize((32, 32))])
 
@@ -84,17 +91,18 @@ T_MNIST = torchvision.transforms.Compose([torchvision.transforms.ToTensor(),
                                           expandChannel()])
 
 T_MNIST_ROT = torchvision.transforms.Compose([torchvision.transforms.ToTensor(),
-                                              torchvision.transforms.Resize((32, 32)),
-                                              # torchvision.transforms.Normalize((0.1048,), (0.2258,)),
+                                              torchvision.transforms.Resize((32, 32), interpolation=INTER_METHOD),
                                               torchvision.transforms.Normalize((0.1307,), (0.3081,)),
-                                              torchvision.transforms.RandomRotation(degrees=(-180, 180)),
+                                              # torchvision.transforms.RandomRotation(degrees=(30, 60), expand=True, resample=INTER_METHOD),
+                                              Rotation(135, resample=INTER_METHOD),
+                                              torchvision.transforms.CenterCrop(32),
                                               CircularMask(),
                                               expandChannel()])
 
 T_MNIST_SINGLE_ROT = torchvision.transforms.Compose([torchvision.transforms.ToTensor(),
                                                      torchvision.transforms.Resize((32, 32)),
                                                      torchvision.transforms.Normalize((0.1307,), (0.3081,)),
-                                                     Rotation(args.single_rotation_angle),
+                                                     Rotation(args.single_rotation_angle, resample=INTER_METHOD),
                                                      CircularMask(),
                                                      expandChannel()])
 
@@ -109,7 +117,7 @@ T_CIFAR10 = torchvision.transforms.Compose([
 T_CIFAR10_ROT = torchvision.transforms.Compose([
     torchvision.transforms.ToTensor(),
     torchvision.transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
-    Rotation(args.single_rotation_angle),
+    Rotation(args.single_rotation_angle, resample=INTER_METHOD),
     CircularMask(),
     # torchvision.transforms.RandomRotation(degrees=(300, 330))
 ])

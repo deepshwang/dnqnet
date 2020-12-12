@@ -122,11 +122,12 @@ class Trainer():
         # torch.save(self.model.state_dict(), args.save_bestmodel_name)
 
     def test(self, model_path=None):
-        model = self.model.eval()
+        # model = self.model.eval()
+        model = self.model
 
         test_loss = 0
         correct = 0
-        for inputs, labels in self.test_dataloader:
+        for i, (inputs, labels) in enumerate(self.test_dataloader, 0):
             inputs = inputs.to(self.device)
             labels = labels.to(self.device)
 
@@ -163,7 +164,7 @@ if __name__ == '__main__':
         # model = DnQNetv3(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['F'])
         # CIFAR10
         if args.train_dataset == 'MNIST':
-            mask=False
+            mask=True
         model = DnQNet(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['B'])
     elif args.model == 'ResidualDnQ':
         model = DnQNet(args, MODEL_CFGS_V3['G'], CLASSIFIER_CFGS['B'], residual=True)

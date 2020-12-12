@@ -95,9 +95,9 @@ def argument_parser():
 					# default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
 					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
 					# default='./data/saved_models/vgg19_cfg_a_mnist.tar',
-					default='./data/saved_models/dnq_cfg_fb_mnist.tar',
+					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
 					# default='./data/saved_models/resnet50_cfg_a_mnist.tar',
-					# default='./data/saved_models/checkpoint.pth.tar',
+					default='./data/saved_models/checkpoint.pth.tar',
 					help='testing model state dict')
 
 	parser.add_argument('--tsne_state_dict_path', type=str,
@@ -178,7 +178,7 @@ def argument_parser():
 	## Train / Test Arguments
 
 	parser.add_argument('--test_only', type=bool,
-						default=False,
+						default=True,
 						help='Conduct testing only')
 
 	parser.add_argument('--train_batch', type=int, 
@@ -186,7 +186,7 @@ def argument_parser():
 						help='Train batch size')
 
 	parser.add_argument('--test_batch', type=int, 
-						default=1,
+						default=64,
 						help='Test & validation batch size')
 
 	parser.add_argument('--epochs', type=int, 
@@ -197,7 +197,7 @@ def argument_parser():
 						help='Number of workers')
 
 	parser.add_argument('--batch_iter', type=int, 
-						default=1,
+						default=100,
 						help='batch iteration size for logging')
 
 	parser.add_argument('--device', type=str, 

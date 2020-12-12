@@ -112,16 +112,69 @@ class DnQNet(nn.Module):
         self.encoder = self.make_layer(args, cfgs, residual)
         self.feature_mask = None
         self.avg_ratio = None
-        if mask:
-            self.feature_mask, self.avg_ratio = self.make_mask(16, args)
+        self.feature_mask, self.avg_ratio = self.make_mask(16, args)
         self.GAP = torch.nn.AdaptiveAvgPool2d((1, 1))
         self.classifier = CosFaceClassifier(cfgs_cls)
+        self.do_mask = mask
 
 
     def forward(self, x):
-        if self.feature_mask is not None:
+        if self.do_mask:
             x = x * self.feature_mask
         equi_feat = self.encoder(x)
+        inv_feat = self.GAP(equi_feat) * self.avg_ratio
+        x = inv_feat.view(inv_feat.shape[0], -1)
+        x = self.classifier(x)
+        return x, equi_feat, inv_feat
+
+    def make_layer(self, args, cfgs, residual):
+        layer=[]
+        for v in cfgs:
+            if isinstance(v, list):
+                layer += [GraphNetBlock(args, v, residual)]
+            elif v == 'A':
+                if args.point_agg_type == 'M':
+                    layer += [torch.nn.MaxPool2d(2)]
+                elif args.point_agg_type == 'A':
+                    layer += [torch.nn.AvgPool2d(2)]
+        return torch.nn.Sequential(*layer)
+
+    def make_mask(self, R, args):
+        s = int(2 * R)
+        mask = torch.zeros(1, 1, s, s, dtype=torch.float32)
+        c = (s-1) / 2
+        for x in range (s):
+            for y in range(s):
+                r = (x - c) ** 2 + (y - c) ** 2
+                if r > ((R-2) ** 2):
+                    mask[..., x, y] = 0
+                else:
+                    mask[..., x, y] = 1
+        active = torch.count_nonzero(mask)
+        ratio = (s ** 2) / active
+        return mask.to(args.device), ratio.to(args.device)
+
+class DnQNet2(nn.Module):
+    '''
+    Graph Neural Network - based v3
+    '''
+
+    def __init__(self, args, cfgs, cfgs_cls, residual=False, mask=True):
+
+        super(DnQNet2, self).__init__()
+        self.encoder = self.make_layer(args, cfgs, residual)
+        self.feature_mask = None
+        self.avg_ratio = None
+        self.feature_mask, self.avg_ratio = self.make_mask(16, args)
+        self.GAP = torch.nn.AdaptiveAvgPool2d((1, 1))
+        self.classifier = CosFaceClassifier(cfgs_cls)
+        self.do_mask = mask
+
+
+    def forward(self, x):
+        equi_feat = self.encoder(x)
+        # if self.do_mask:
+        #     equi_feat = equi_feat * self.feature_mask
         inv_feat = self.GAP(equi_feat) * self.avg_ratio
         x = inv_feat.view(inv_feat.shape[0], -1)
         x = self.classifier(x)
