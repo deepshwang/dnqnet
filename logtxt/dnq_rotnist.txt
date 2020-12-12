@@ -1,0 +1,2880 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9680/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9655/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9578/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9471/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9432/10000 (94%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9340/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9327/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9207/10000 (92%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9133/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9083/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9027/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9028/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8868/10000 (89%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8771/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8725/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8630/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8564/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8462/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8420/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8215/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8096/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8029/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8018/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7813/10000 (78%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7724/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7624/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7447/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7417/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7321/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7354/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7361/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7448/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7233/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7256/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7157/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7211/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7301/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7219/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7241/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7272/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7336/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7457/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7416/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7324/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7322/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7251/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7309/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7232/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7212/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7037/10000 (70%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7247/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7270/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7343/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7268/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7306/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7467/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7396/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7412/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7535/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7607/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7734/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7880/10000 (79%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7972/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8118/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8105/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8199/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8189/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8301/10000 (83%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8448/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8473/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8622/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8643/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8668/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8808/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8820/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8957/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9025/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9085/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9271/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9349/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9469/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9531/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9595/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9637/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9682/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9680/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9655/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9578/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9471/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9432/10000 (94%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9340/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9327/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9207/10000 (92%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9133/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9083/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9027/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9028/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8868/10000 (89%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8771/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8725/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8630/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8564/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8462/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8420/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8215/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8096/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8029/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8018/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7813/10000 (78%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7724/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7624/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7447/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7417/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7321/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7354/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7361/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7448/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7233/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7256/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7157/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7211/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7301/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7219/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7241/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7272/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7336/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7457/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7416/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7324/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7322/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7251/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7309/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7232/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7212/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7037/10000 (70%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7247/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7270/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7343/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7268/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7306/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7467/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7396/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7412/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7535/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7607/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7734/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7880/10000 (79%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7972/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8118/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8105/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8199/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8189/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8301/10000 (83%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8448/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8473/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8622/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8643/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8668/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8808/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8820/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8957/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9025/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9085/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9271/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9349/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9469/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9531/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9595/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9637/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9682/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9680/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9655/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9578/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9471/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9432/10000 (94%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9340/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9327/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9207/10000 (92%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9133/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9083/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9027/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9028/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8868/10000 (89%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8771/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8725/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8630/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8564/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8462/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8420/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8215/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8096/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8029/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8018/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7813/10000 (78%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7724/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7624/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7447/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7417/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7321/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7354/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7361/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7448/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7233/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7256/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7157/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7211/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7301/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7219/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7241/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7272/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7336/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7457/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7416/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7324/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7322/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7251/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7309/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7232/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7212/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7037/10000 (70%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7247/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7270/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7343/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7268/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7306/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7467/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7396/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7412/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7535/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7607/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7734/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7880/10000 (79%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7972/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8118/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8105/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8199/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8189/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8301/10000 (83%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8448/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8473/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8622/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8643/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8668/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8808/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8820/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8957/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9025/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9085/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9271/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9349/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9469/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9531/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9595/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9637/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9682/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9680/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9655/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9578/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9471/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9432/10000 (94%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9340/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9327/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9207/10000 (92%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9133/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9083/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9027/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9028/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8868/10000 (89%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8771/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8725/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8630/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8564/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8462/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8420/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8215/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8096/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8029/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8018/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7813/10000 (78%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7724/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7624/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7447/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7417/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7321/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7354/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7361/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7448/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7233/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7256/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7246/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7157/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7211/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7301/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7219/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7241/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7272/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7336/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7457/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7416/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7324/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7322/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7251/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7309/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7232/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7212/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7037/10000 (70%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7247/10000 (72%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7270/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7343/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7268/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7306/10000 (73%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7467/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7396/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7412/10000 (74%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7535/10000 (75%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7607/10000 (76%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7734/10000 (77%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7880/10000 (79%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 7972/10000 (80%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8118/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8105/10000 (81%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8199/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8189/10000 (82%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8301/10000 (83%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8448/10000 (84%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8473/10000 (85%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8622/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8643/10000 (86%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8668/10000 (87%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8808/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8820/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 8957/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9025/10000 (90%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9085/10000 (91%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9271/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9349/10000 (93%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9469/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9531/10000 (95%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9595/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9637/10000 (96%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9682/10000 (97%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/dnq_cfg_fb_mnist.tar
+Training with device:  cuda
+
+Test set:  Accuracy: 9681/10000 (97%)
+

@@ -66,12 +66,12 @@ def argument_parser():
 
 
 	parser.add_argument('--train_dataset', type=str,
-						default='CIFAR10',
+						default='MNIST',
 						choices=['MNIST', 'RotNIST', 'CIFAR10', 'RotCIFAR10', 'CIFAR100', 'RotCIFAR100'],
 						help='Dataset to train')
 
 	parser.add_argument('--test_dataset', type=str,
-						default='RotCIFAR10',
+						default='RotNIST',
 						choices=['MNIST', 'RotNIST', 'CIFAR10', 'RotCIFAR10', 'CIFAR100', 'RotCIFAR100'],
 						help='Dataset to test')
 
@@ -91,16 +91,17 @@ def argument_parser():
 						help='Dataset to visualize via tsne')
 
 	parser.add_argument('--test_model_name', type=str,
-					default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
+					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
 					# default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
 					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
 					# default='./data/saved_models/vgg19_cfg_a_mnist.tar',
-					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
+					default='./data/saved_models/dnq_cfg_fb_mnist.tar',
 					# default='./data/saved_models/resnet50_cfg_a_mnist.tar',
 					# default='./data/saved_models/checkpoint.pth.tar',
 					help='testing model state dict')
 
 	parser.add_argument('--tsne_state_dict_path', type=str,
+					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
 					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
 					default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
 					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
@@ -177,7 +178,7 @@ def argument_parser():
 	## Train / Test Arguments
 
 	parser.add_argument('--test_only', type=bool,
-						default=True,
+						default=False,
 						help='Conduct testing only')
 
 	parser.add_argument('--train_batch', type=int, 
@@ -185,18 +186,18 @@ def argument_parser():
 						help='Train batch size')
 
 	parser.add_argument('--test_batch', type=int, 
-						default=64,
+						default=1,
 						help='Test & validation batch size')
 
 	parser.add_argument('--epochs', type=int, 
 						default=1000,
 						help='Number of epochs for training')
 	parser.add_argument('--num_workers', type=int,
-						default=1,
+						default=8,
 						help='Number of workers')
 
 	parser.add_argument('--batch_iter', type=int, 
-						default=100,
+						default=1,
 						help='batch iteration size for logging')
 
 	parser.add_argument('--device', type=str, 

@@ -71,6 +71,7 @@ class GraphNetBlock(nn.Module):
             else:
                 try:
                     layer += [torch.nn.Conv2d(in_channels=in_channels, out_channels=v, kernel_size=1, bias=True), torch.nn.BatchNorm2d(v), torch.nn.ReLU()]
+                    # layer += [torch.nn.Conv2d(in_channels=in_channels, out_channels=v, kernel_size=1, bias=True), torch.nn.ReLU()]
                 except (TypeError):
                     print("debug! come to GraphNetBlock ")
                     pdb.set_trace()
@@ -105,20 +106,24 @@ class DnQNet(nn.Module):
     Graph Neural Network - based v3
     '''
 
-    def __init__(self, args, cfgs, cfgs_cls, residual=False):
+    def __init__(self, args, cfgs, cfgs_cls, residual=False, mask=True):
 
         super(DnQNet, self).__init__()
         self.encoder = self.make_layer(args, cfgs, residual)
-        self.feature_mask, self.avg_ratio = self.make_mask(16, args)
+        self.feature_mask = None
+        self.avg_ratio = None
+        if mask:
+            self.feature_mask, self.avg_ratio = self.make_mask(16, args)
         self.GAP = torch.nn.AdaptiveAvgPool2d((1, 1))
         self.classifier = CosFaceClassifier(cfgs_cls)
 
 
     def forward(self, x):
+        if self.feature_mask is not None:
+            x = x * self.feature_mask
         equi_feat = self.encoder(x)
-        equi_feat = equi_feat * self.feature_mask
         inv_feat = self.GAP(equi_feat) * self.avg_ratio
-        x = torch.squeeze(inv_feat)
+        x = inv_feat.view(inv_feat.shape[0], -1)
         x = self.classifier(x)
         return x, equi_feat, inv_feat
 
@@ -141,7 +146,7 @@ class DnQNet(nn.Module):
         for x in range (s):
             for y in range(s):
                 r = (x - c) ** 2 + (y - c) ** 2
-                if r > (R ** 2):
+                if r > ((R-2) ** 2):
                     mask[..., x, y] = 0
                 else:
                     mask[..., x, y] = 1

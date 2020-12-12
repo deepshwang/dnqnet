@@ -43,7 +43,7 @@ def MNISTDataloader(args, mode, T):
 		shuffle = False
 	else:
 		sampler = None
-		shuffle = True
+		shuffle = False
 
 	dataloader = DataLoader(dataset=dataset, batch_size=batch_size,
 							sampler=sampler,

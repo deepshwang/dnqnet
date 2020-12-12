@@ -162,7 +162,8 @@ if __name__ == '__main__':
         # CIFAR100
         # model = DnQNetv3(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['F'])
         # CIFAR10
-
+        if args.train_dataset == 'MNIST':
+            mask=False
         model = DnQNet(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['B'])
     elif args.model == 'ResidualDnQ':
         model = DnQNet(args, MODEL_CFGS_V3['G'], CLASSIFIER_CFGS['B'], residual=True)

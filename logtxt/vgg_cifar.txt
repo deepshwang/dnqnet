@@ -1,0 +1,3240 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Testing only!
+Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Training with device:  cuda:0
+
+Test set:  Accuracy: 8802/10000 (88%)
+

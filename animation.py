@@ -100,7 +100,7 @@ def animate(model: EquivariantModule,
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     #CHANGEHERE
-    model = cnnmodel
+    # model = cnnmodel
     model.to(device)
     model.eval()
 
