@@ -1,6 +1,5 @@
 from dataloader.dataloader import *
 from params import argument_parser, MODEL_CFGS, MODEL_CFGS_V3, CLASSIFIER_CFGS, CLASSIFIER_CFGS_VGG19, CLASSIFIER_CFGS_ResNet50
-from models.dnqnetv2 import DnQNetv2
 from models.models import *
 from models.cnn import CNN
 import torch
@@ -8,6 +7,7 @@ import torch.nn as nn  #
 import torch.optim as optim  # various optimization functions for model
 from dataloader.transforms import *
 from utils.analyzer import count_parameters
+from utils.loss_functions import apply_margin
 import math
 
 from torch.autograd import Variable
@@ -17,8 +17,6 @@ import pdb
 import warnings
 
 warnings.filterwarnings("ignore")
-torch.manual_seed(777)
-
 
 class Trainer():
     def __init__(self, args, train_dataloader, test_dataloader, val_dataloader, model, criterion, optimizer):
@@ -49,15 +47,17 @@ class Trainer():
                 self.optimizer.zero_grad()
 
                 outputs, equi_feat, inv_feat = self.model(inputs)
-
+                if args.use_cosface:
+                    outputs = apply_margin(outputs, labels, args.m)
 
                 loss = self.criterion(outputs, labels)
 
 
                 loss.backward()
 
+                # This operation applies only on WN-NGCN Module
                 for name, param in self.model.named_parameters():
-                    if 'aggregate' in name:
+                    if 'aggregate' in name and args.model == 'DnQ':
                         b, c, w, h = param.shape
                         for x in range(w):
                             for y in range(h):
@@ -84,7 +84,10 @@ class Trainer():
                 inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
+
                 outputs, equi_feat, inv_feat = self.model(inputs)
+
+
                 loss = self.criterion(outputs, labels)
 
 
@@ -121,18 +124,25 @@ class Trainer():
 
         # torch.save(self.model.state_dict(), args.save_bestmodel_name)
 
+
     def test(self, model_path=None):
-        # model = self.model.eval()
-        model = self.model
+        # if True:
+        if args.test_dataset == 'RotCIFAR10':
+            self.model.eval()
 
         test_loss = 0
         correct = 0
+        if args.single_rotation_angle is not None and not args.single_rotation_angle == 0:
+            print("Testing over ", args.single_rotation_angle, " degree rotation augmented dataset")
+
         for i, (inputs, labels) in enumerate(self.test_dataloader, 0):
+
+
             inputs = inputs.to(self.device)
             labels = labels.to(self.device)
 
+            output, equi_feat, inv_feat = self.model(inputs)
 
-            output, equi_feat, inv_feat = model(inputs)
 
             pred = output.max(1, keepdim=True)[1]  # get the index of the max
 
@@ -154,20 +164,19 @@ class Trainer():
 
 if __name__ == '__main__':
     args = argument_parser()
+    torch.manual_seed(args.seed)
 
     if args.model == 'VGG19':
         model = VGG19(CLASSIFIER_CFGS_VGG19['A'])
     elif args.model == 'ResNet50':
         model = ResNet50(CLASSIFIER_CFGS_ResNet50['A'])
     elif args.model == 'DnQ':
-        # CIFAR100
-        # model = DnQNetv3(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['F'])
-        # CIFAR10
-        if args.train_dataset == 'MNIST':
-            mask=True
-        model = DnQNet(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['B'])
-    elif args.model == 'ResidualDnQ':
-        model = DnQNet(args, MODEL_CFGS_V3['G'], CLASSIFIER_CFGS['B'], residual=True)
+        model = DnQNet(args, MODEL_CFGS_V3['F'], CLASSIFIER_CFGS['B'], cosface=args.use_cosface)
+
+    elif args.model == 'e2cnn-c8':
+        model = C8SteerableCNN(n_classes=10, num_rot=8, cosface=args.use_cosface)
+    elif args.model == 'e2cnn-c16':
+        model = C8SteerableCNN(n_classes=10, num_rot=16, cosface=args.use_cosface)
 
 
     if args.train_dataset == 'MNIST':
@@ -214,7 +223,7 @@ if __name__ == '__main__':
     if args.optimizer == 'adam':
         optimizer = optim.Adam((filter(lambda p: p.requires_grad, model.parameters())), lr=1e-4) # 1e-4
     elif args.optimizer == 'sgd':
-        optimizer = optim.SGD(model.parameters(), lr=3e-3, momentum=0.9)
+        optimizer = optim.SGD(model.parameters(), lr=1e-4, momentum=0.9, weight_decay=5e-4)
 
 
     # print(model)
@@ -228,6 +237,15 @@ if __name__ == '__main__':
         print("Testing only!")
         print("Loading for test: ", args.test_model_name)
         model.load_state_dict(torch.load(args.test_model_name))
+
+    print("<<<<<<<<<<<<<< SPECIFICATIONS >>>>>>>>>>>>>>>")
+    print("Model: ", args.model)
+    print("Test only: ", args.test_only)
+    print("Use cosface: ", args.use_cosface)
+    if args.use_cosface:
+        print("Margin: ", args.m)
+    print("Device: ", args.device)
+
 
 
     trainer = Trainer(args=args,

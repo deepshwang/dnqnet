@@ -1,0 +1,179 @@
+[0] > [33;01m/home/sungwon95/ws/dnqnet/train.py[00m([36;01m218[00m)<module>()
+-> criterion = nn.CrossEntropyLoss()
+(Pdb++) --KeyboardInterrupt--
+(Pdb++) --KeyboardInterrupt--
+(Pdb++) Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  0  degree rotation augmented dataset
+
+Test set:  Accuracy: 9958/10000 (100%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  15  degree rotation augmented dataset
+
+Test set:  Accuracy: 9918/10000 (99%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  30  degree rotation augmented dataset
+
+Test set:  Accuracy: 9805/10000 (98%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  45  degree rotation augmented dataset
+
+Test set:  Accuracy: 9732/10000 (97%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  60  degree rotation augmented dataset
+
+Test set:  Accuracy: 9585/10000 (96%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  75  degree rotation augmented dataset
+
+Test set:  Accuracy: 9621/10000 (96%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  90  degree rotation augmented dataset
+
+Test set:  Accuracy: 9632/10000 (96%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  105  degree rotation augmented dataset
+
+Test set:  Accuracy: 9314/10000 (93%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  120  degree rotation augmented dataset
+
+Test set:  Accuracy: 8618/10000 (86%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  135  degree rotation augmented dataset
+
+Test set:  Accuracy: 8044/10000 (80%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  150  degree rotation augmented dataset
+
+Test set:  Accuracy: 7587/10000 (76%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  165  degree rotation augmented dataset
+
+Test set:  Accuracy: 7203/10000 (72%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  180  degree rotation augmented dataset
+
+Test set:  Accuracy: 7068/10000 (71%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  195  degree rotation augmented dataset
+
+Test set:  Accuracy: 6989/10000 (70%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  210  degree rotation augmented dataset
+
+Test set:  Accuracy: 7105/10000 (71%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  225  degree rotation augmented dataset
+
+Test set:  Accuracy: 7514/10000 (75%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  240  degree rotation augmented dataset
+
+Test set:  Accuracy: 8178/10000 (82%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  255  degree rotation augmented dataset
+
+Test set:  Accuracy: 9110/10000 (91%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  270  degree rotation augmented dataset
+
+Test set:  Accuracy: 9505/10000 (95%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  285  degree rotation augmented dataset
+
+Test set:  Accuracy: 9399/10000 (94%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  300  degree rotation augmented dataset
+
+Test set:  Accuracy: 9288/10000 (93%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  315  degree rotation augmented dataset
+
+Test set:  Accuracy: 9454/10000 (95%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  330  degree rotation augmented dataset
+
+Test set:  Accuracy: 9704/10000 (97%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  345  degree rotation augmented dataset
+
+Test set:  Accuracy: 9921/10000 (99%)
+
+Testing only!
+Loading for test:  ./data/saved_models/c8_mnist.tar
+Training with device:  cuda:0
+Testing over  360  degree rotation augmented dataset
+
+Test set:  Accuracy: 9958/10000 (100%)
+

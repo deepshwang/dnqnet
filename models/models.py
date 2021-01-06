@@ -3,16 +3,19 @@ import torch.nn as nn
 import pdb
 import torch.nn.functional as F
 import torchvision.models as models
+from e2cnn import gspaces
+import e2cnn
 
 
 class GraphNetBlock(nn.Module):
     '''
-    Graph Convolutional Network Module
+    Implementation of WN-NGCN
     '''
     def __init__(self, args, pointconv_cfg, residual=False):
         super(GraphNetBlock, self).__init__()
         self.vertexfeat = self.make_layer(args, pointconv_cfg)
-        self.aggregate = self.weighted_aggregation(pointconv_cfg[-1], pointconv_cfg[-1], 3)
+        # self.aggregate = self.weighted_aggregation(pointconv_cfg[-1], pointconv_cfg[-1], 3)
+        self.aggregate = self.weighted_aggregation(pointconv_cfg[0], pointconv_cfg[0], 3)
         # self.aggregate = self.unweighted_aggregation(args)
         self.residual = residual
         self.downsample=None
@@ -25,8 +28,8 @@ class GraphNetBlock(nn.Module):
         identity = x
         if self.downsample is not None:
             identity = self.downsample(identity)
-        x = self.vertexfeat(x)
         x = self.aggregate(x)
+        x = self.vertexfeat(x)
         if self.residual:
             x = x + identity
         return x
@@ -106,23 +109,22 @@ class DnQNet(nn.Module):
     Graph Neural Network - based v3
     '''
 
-    def __init__(self, args, cfgs, cfgs_cls, residual=False, mask=True):
+    def __init__(self, args, cfgs, cfgs_cls, residual=False, cosface=True):
 
         super(DnQNet, self).__init__()
         self.encoder = self.make_layer(args, cfgs, residual)
-        self.feature_mask = None
-        self.avg_ratio = None
-        self.feature_mask, self.avg_ratio = self.make_mask(16, args)
+        # self.feature_mask, self.avg_ratio = self.make_mask(16, args)
         self.GAP = torch.nn.AdaptiveAvgPool2d((1, 1))
-        self.classifier = CosFaceClassifier(cfgs_cls)
-        self.do_mask = mask
+        if cosface:
+            self.classifier = CosFaceClassifier(cfgs_cls)
+        else:
+            self.classifier = nn.Sequential(nn.Linear(cfgs_cls[0], cfgs_cls[1]),
+                                            nn.Linear(cfgs_cls[1], cfgs_cls[2]))
 
 
     def forward(self, x):
-        if self.do_mask:
-            x = x * self.feature_mask
         equi_feat = self.encoder(x)
-        inv_feat = self.GAP(equi_feat) * self.avg_ratio
+        inv_feat = self.GAP(equi_feat)
         x = inv_feat.view(inv_feat.shape[0], -1)
         x = self.classifier(x)
         return x, equi_feat, inv_feat
@@ -132,11 +134,6 @@ class DnQNet(nn.Module):
         for v in cfgs:
             if isinstance(v, list):
                 layer += [GraphNetBlock(args, v, residual)]
-            elif v == 'A':
-                if args.point_agg_type == 'M':
-                    layer += [torch.nn.MaxPool2d(2)]
-                elif args.point_agg_type == 'A':
-                    layer += [torch.nn.AvgPool2d(2)]
         return torch.nn.Sequential(*layer)
 
     def make_mask(self, R, args):
@@ -154,67 +151,13 @@ class DnQNet(nn.Module):
         ratio = (s ** 2) / active
         return mask.to(args.device), ratio.to(args.device)
 
-class DnQNet2(nn.Module):
-    '''
-    Graph Neural Network - based v3
-    '''
-
-    def __init__(self, args, cfgs, cfgs_cls, residual=False, mask=True):
-
-        super(DnQNet2, self).__init__()
-        self.encoder = self.make_layer(args, cfgs, residual)
-        self.feature_mask = None
-        self.avg_ratio = None
-        self.feature_mask, self.avg_ratio = self.make_mask(16, args)
-        self.GAP = torch.nn.AdaptiveAvgPool2d((1, 1))
-        self.classifier = CosFaceClassifier(cfgs_cls)
-        self.do_mask = mask
-
-
-    def forward(self, x):
-        equi_feat = self.encoder(x)
-        # if self.do_mask:
-        #     equi_feat = equi_feat * self.feature_mask
-        inv_feat = self.GAP(equi_feat) * self.avg_ratio
-        x = inv_feat.view(inv_feat.shape[0], -1)
-        x = self.classifier(x)
-        return x, equi_feat, inv_feat
-
-    def make_layer(self, args, cfgs, residual):
-        layer=[]
-        for v in cfgs:
-            if isinstance(v, list):
-                layer += [GraphNetBlock(args, v, residual)]
-            elif v == 'A':
-                if args.point_agg_type == 'M':
-                    layer += [torch.nn.MaxPool2d(2)]
-                elif args.point_agg_type == 'A':
-                    layer += [torch.nn.AvgPool2d(2)]
-        return torch.nn.Sequential(*layer)
-
-    def make_mask(self, R, args):
-        s = int(2 * R)
-        mask = torch.zeros(1, 1, s, s, dtype=torch.float32)
-        c = (s-1) / 2
-        for x in range (s):
-            for y in range(s):
-                r = (x - c) ** 2 + (y - c) ** 2
-                if r > ((R-2) ** 2):
-                    mask[..., x, y] = 0
-                else:
-                    mask[..., x, y] = 1
-        active = torch.count_nonzero(mask)
-        ratio = (s ** 2) / active
-        return mask.to(args.device), ratio.to(args.device)
 
 class VGG19(nn.Module):
     def __init__(self, cfg):
         super(VGG19, self).__init__()
         self.encoder = models.vgg19(pretrained=True).features
         self.avgpool = torch.nn.AdaptiveAvgPool2d((1, 1))
-        self.classifier = nn.Sequential(nn.Linear(cfg[0], cfg[1],),
-                                        # nn.ReLU(),
-                                        nn.Linear(cfg[1], cfg[2]))
+        self.classifier = CosFaceClassifier(cfg)
 
     def forward(self, x):
         equi_feat = self.encoder(x)
@@ -230,9 +173,7 @@ class ResNet50(nn.Module):
         modules = list(models.resnet50(pretrained=True).children())[:-2]
         self.encoder = nn.Sequential(*modules)
         self.avgpool = torch.nn.AdaptiveAvgPool2d((1, 1))
-        self.classifier = nn.Sequential(nn.Linear(cfg[0], cfg[1]),
-                                        # nn.ReLU(),
-                                        nn.Linear(cfg[1], cfg[2]))
+        self.classifier = CosFaceClassifier(cfg)
 
     def forward(self, x):
         equi_feat = self.encoder(x)
@@ -241,9 +182,151 @@ class ResNet50(nn.Module):
         out = self.classifier(out)
         return out, equi_feat, inv_feat
 
+'''
+E(2)-CNN
+https://github.com/QUVA-Lab/e2cnn/blob/master/examples/model.ipynb
+'''
+
+class C8SteerableCNN(torch.nn.Module):
+
+    def __init__(self, n_classes=10, num_rot=16, cosface=True):
+        super(C8SteerableCNN, self).__init__()
+
+        # the model is equivariant under rotations by 45 degrees, modelled by C8
+        self.r2_act = gspaces.Rot2dOnR2(N=num_rot)
+
+        # the input image is a scalar field, corresponding to the trivial representation
+        in_type = e2cnn.nn.FieldType(self.r2_act, 3 * [self.r2_act.trivial_repr])
+
+        # we store the input type for wrapping the images into a geometric tensor during the forward pass
+        self.input_type = in_type
+
+        # convolution 1
+        # first specify the output type of the convolutional layer
+        # we choose 24 feature fields, each transforming under the regular representation of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 24 * [self.r2_act.regular_repr])
+        self.block1 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.MaskModule(in_type, 32, margin=1),
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=7, padding=1, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+
+        # convolution 2
+        # the old output type is the input type to the next layer
+        in_type = self.block1.out_type
+        # the output type of the second convolution layer are 48 regular feature fields of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 48 * [self.r2_act.regular_repr])
+        self.block2 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=5, padding=2, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+        self.pool1 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.PointwiseAvgPoolAntialiased(out_type, sigma=0.66, stride=2)
+        )
+
+        # convolution 3
+        # the old output type is the input type to the next layer
+        in_type = self.block2.out_type
+        # the output type of the third convolution layer are 48 regular feature fields of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 48 * [self.r2_act.regular_repr])
+        self.block3 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=5, padding=2, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+
+        # convolution 4
+        # the old output type is the input type to the next layer
+        in_type = self.block3.out_type
+        # the output type of the fourth convolution layer are 96 regular feature fields of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 96 * [self.r2_act.regular_repr])
+        self.block4 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=5, padding=2, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+        self.pool2 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.PointwiseAvgPoolAntialiased(out_type, sigma=0.66, stride=2)
+        )
+
+        # convolution 5
+        # the old output type is the input type to the next layer
+        in_type = self.block4.out_type
+        # the output type of the fifth convolution layer are 96 regular feature fields of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 96 * [self.r2_act.regular_repr])
+        self.block5 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=5, padding=2, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+
+        # convolution 6
+        # the old output type is the input type to the next layer
+        in_type = self.block5.out_type
+        # the output type of the sixth convolution layer are 64 regular feature fields of C8
+        out_type = e2cnn.nn.FieldType(self.r2_act, 64 * [self.r2_act.regular_repr])
+        self.block6 = e2cnn.nn.SequentialModule(
+            e2cnn.nn.R2Conv(in_type, out_type, kernel_size=5, padding=1, bias=False),
+            e2cnn.nn.InnerBatchNorm(out_type),
+            e2cnn.nn.ReLU(out_type, inplace=True)
+        )
+        self.pool3 = e2cnn.nn.PointwiseAvgPoolAntialiased(out_type, sigma=0.66, stride=1, padding=0)
+
+        self.gpool = e2cnn.nn.GroupPooling(out_type)
+
+        # number of output channels
+        c = self.gpool.out_type.size
+
+        # Fully Connected
+        if cosface:
+            self.fully_net = CosFaceClassifier([c, 64, n_classes])
+        else:
+            self.fully_net = nn.Sequential(nn.Linear(c, 64),
+                                            nn.Linear(64, n_classes))
+        self.fully_net = CosFaceClassifier([c, 64, n_classes])
+
+    def forward(self, input: torch.Tensor):
+        # wrap the input tensor in a GeometricTensor
+        # (associate it with the input type)
+        x = e2cnn.nn.GeometricTensor(input, self.input_type)
+
+        # apply each equivariant block
+
+        # Each layer has an input and an output type
+        # A layer takes a GeometricTensor in input.
+        # This tensor needs to be associated with the same representation of the layer's input type
+        #
+        # The Layer outputs a new GeometricTensor, associated with the layer's output type.
+        # As a result, consecutive layers need to have matching input/output types
+        x = self.block1(x)
+        x = self.block2(x)
+        x = self.pool1(x)
+
+        x = self.block3(x)
+        x = self.block4(x)
+        x = self.pool2(x)
+
+        x = self.block5(x)
+        x = self.block6(x)
+
+        # pool over the spatial dimensions
+        equi = self.pool3(x)
+
+        # pool over the group
+        inv = self.gpool(equi)
+
+        # unwrap the output GeometricTensor
+        # (take the Pytorch tensor and discard the associated representation)
+        out = inv.tensor
+
+        # classify with the final fully connected layers)
+        out = self.fully_net(out.reshape(out.shape[0], -1))
+
+        return out, equi.tensor, inv.tensor
+
+
 
 if __name__ == '__main__':
-    model = ResNet50([2048, 256, 10])
-
-
-
+    model = 0

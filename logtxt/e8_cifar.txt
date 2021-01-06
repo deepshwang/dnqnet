@@ -1,199 +1,200 @@
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
+Testing over  0  degree rotation augmented dataset
 
-Test set:  Accuracy: 8514/10000 (85%)
+Test set:  Accuracy: 7776/10000 (78%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  15  degree rotation augmented dataset
 
-Test set:  Accuracy: 7361/10000 (74%)
+Test set:  Accuracy: 6785/10000 (68%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  30  degree rotation augmented dataset
 
-Test set:  Accuracy: 5446/10000 (54%)
+Test set:  Accuracy: 5542/10000 (55%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  45  degree rotation augmented dataset
 
-Test set:  Accuracy: 4437/10000 (44%)
+Test set:  Accuracy: 5484/10000 (55%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  60  degree rotation augmented dataset
 
-Test set:  Accuracy: 3366/10000 (34%)
+Test set:  Accuracy: 4243/10000 (42%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  75  degree rotation augmented dataset
 
-Test set:  Accuracy: 3281/10000 (33%)
+Test set:  Accuracy: 4173/10000 (42%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  90  degree rotation augmented dataset
 
-Test set:  Accuracy: 3410/10000 (34%)
+Test set:  Accuracy: 5224/10000 (52%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  105  degree rotation augmented dataset
 
-Test set:  Accuracy: 2889/10000 (29%)
+Test set:  Accuracy: 3795/10000 (38%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  120  degree rotation augmented dataset
 
-Test set:  Accuracy: 2533/10000 (25%)
+Test set:  Accuracy: 3182/10000 (32%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  135  degree rotation augmented dataset
 
-Test set:  Accuracy: 2766/10000 (28%)
+Test set:  Accuracy: 3702/10000 (37%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  150  degree rotation augmented dataset
 
-Test set:  Accuracy: 2688/10000 (27%)
+Test set:  Accuracy: 3168/10000 (32%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  165  degree rotation augmented dataset
 
-Test set:  Accuracy: 3198/10000 (32%)
+Test set:  Accuracy: 3389/10000 (34%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  180  degree rotation augmented dataset
 
-Test set:  Accuracy: 3561/10000 (36%)
+Test set:  Accuracy: 4026/10000 (40%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  195  degree rotation augmented dataset
 
-Test set:  Accuracy: 3185/10000 (32%)
+Test set:  Accuracy: 3346/10000 (33%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  210  degree rotation augmented dataset
 
-Test set:  Accuracy: 2702/10000 (27%)
+Test set:  Accuracy: 3094/10000 (31%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  225  degree rotation augmented dataset
 
-Test set:  Accuracy: 2658/10000 (27%)
+Test set:  Accuracy: 3582/10000 (36%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  240  degree rotation augmented dataset
 
-Test set:  Accuracy: 2486/10000 (25%)
+Test set:  Accuracy: 3141/10000 (31%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  255  degree rotation augmented dataset
 
-Test set:  Accuracy: 2791/10000 (28%)
+Test set:  Accuracy: 3869/10000 (39%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  270  degree rotation augmented dataset
 
-Test set:  Accuracy: 3379/10000 (34%)
+Test set:  Accuracy: 5272/10000 (53%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  285  degree rotation augmented dataset
 
-Test set:  Accuracy: 3264/10000 (33%)
+Test set:  Accuracy: 4185/10000 (42%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  300  degree rotation augmented dataset
 
-Test set:  Accuracy: 3321/10000 (33%)
+Test set:  Accuracy: 4348/10000 (43%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  315  degree rotation augmented dataset
 
-Test set:  Accuracy: 4505/10000 (45%)
+Test set:  Accuracy: 5448/10000 (54%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  330  degree rotation augmented dataset
 
-Test set:  Accuracy: 5255/10000 (53%)
+Test set:  Accuracy: 5595/10000 (56%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  345  degree rotation augmented dataset
 
-Test set:  Accuracy: 7412/10000 (74%)
+Test set:  Accuracy: 6750/10000 (68%)
 
 Files already downloaded and verified
 Testing only!
-Loading for test:  ./data/saved_models/vgg19_cfg_a_cifar10.tar
+Loading for test:  ./data/saved_models/c8_cifar10.tar
 Training with device:  cuda:0
 Testing over  360  degree rotation augmented dataset
 
-Test set:  Accuracy: 8514/10000 (85%)
+Test set:  Accuracy: 7776/10000 (78%)
 

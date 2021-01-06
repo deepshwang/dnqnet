@@ -60,10 +60,13 @@ def argument_parser():
 
 
 	parser.add_argument('--model', type=str,
-						default='DnQ',
-						choices=['DnQ', 'ResidualDnQ', 'CNN', 'VGG19', 'ResNet50'],
+						default='e2cnn-c8',
+						choices=['DnQ', 'ResidualDnQ', 'CNN', 'VGG19', 'ResNet50', 'e2cnn-c8', 'e2cnn-c16'],
 						help='type of model to train')
 
+	parser.add_argument('--use_cosface', type=bool,
+						default=True,
+						help='Whether to use cosface classifer for models')
 
 	parser.add_argument('--train_dataset', type=str,
 						default='MNIST',
@@ -79,34 +82,46 @@ def argument_parser():
 						default=0,
 						help='Single rotation angel to test')
 
+	parser.add_argument('--test_model_name', type=str,
+					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
+					# default='./data/saved_models/dnq_cfg_fb_mnist_m_05.tar',
+					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
+
+					# default='./data/saved_models/vgg19_cfg_a_mnist.tar',
+					# default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
+
+					# default='./data/saved_models/resnet50_cfg_a_mnist.tar',
+					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
+
+					# default='./data/saved_models/c8_mnist.tar',
+					# default='./data/saved_models/c8_mnist_no_cosface.tar',
+					# default='./data/saved_models/c8_cifar10.tar',
+
+					# default='./data/saved_models/c16_mnist.tar',
+					# default='./data/saved_models/c16_cifar10.tar',
+
+					# default='./data/saved_models/checkpoint.pth.tar',
+					default='./data/saved_models/checkpoint_2.pth.tar',
+					help='testing model state dict')
+
+
 	parser.add_argument('--tsne_model', type=str,
-						default='VGG19',
+						default='DnQ',
 						choices=['DnQ', 'ResidualDnQ', 'CNN', 'VGG19', 'ResNet50'],
 						help='type of model to visualize via tsne')
-
 
 	parser.add_argument('--tsne_dataset', type=str,
 						default='CIFAR10',
 						choices=['MNIST', 'CIFAR10', 'CIFAR100', 'RotCIFAR100'],
 						help='Dataset to visualize via tsne')
 
-	parser.add_argument('--test_model_name', type=str,
+	parser.add_argument('--tsne_state_dict_path', type=str,
+					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
 					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
 					# default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
 					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
 					# default='./data/saved_models/vgg19_cfg_a_mnist.tar',
-					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
-					# default='./data/saved_models/resnet50_cfg_a_mnist.tar',
-					default='./data/saved_models/checkpoint.pth.tar',
-					help='testing model state dict')
-
-	parser.add_argument('--tsne_state_dict_path', type=str,
-					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
-					# default='./data/saved_models/dnq_cfg_fb_cifar10.tar',
-					default='./data/saved_models/vgg19_cfg_a_cifar10.tar',
-					# default='./data/saved_models/resnet50_cfg_a_cifar10.tar',
-					# default='./data/saved_models/vgg19_cfg_a_mnist.tar',
-					# default='./data/saved_models/dnq_cfg_fb_mnist.tar',
+					default='./data/saved_models/dnq_cfg_fb_mnist.tar',
 					# default='./data/saved_models/checkpoint.pth.tar',
 					help='visualizing model state dict')
 
@@ -164,10 +179,9 @@ def argument_parser():
 						choices=['M', 'A'],
 						help='Point-net like vertex aggregation type')
 
-	parser.add_argument('--loss_function', type=str,
-						default='ce',
-						choices=['ce', 'arcface', 'sphereface', 'cosface'],
-						help='Point-net like vertex aggregation type')
+	parser.add_argument('--m', type=float,
+						default=0.4,
+						help='Margin for Large Margin Cosine Loss')
 
 	parser.add_argument('--optimizer', type=str,
 						default='adam',
@@ -178,7 +192,7 @@ def argument_parser():
 	## Train / Test Arguments
 
 	parser.add_argument('--test_only', type=bool,
-						default=True,
+						default=False,
 						help='Conduct testing only')
 
 	parser.add_argument('--train_batch', type=int, 
@@ -210,9 +224,13 @@ def argument_parser():
 					help='percentage of train data over the whole train dataset')
 
 	parser.add_argument('--save_bestmodel_name', type=str,
+					# default='./data/saved_models/checkpoint_2.pth.tar',
 					default='./data/saved_models/checkpoint.pth.tar',
 					help='percentage of train data over the whole train dataset')
 
+	parser.add_argument('--seed', type=int,
+					default=77,
+					help='Random seed to control stochasticity')
 
 
 	parser.add_argument('--save_mode', type=str,
