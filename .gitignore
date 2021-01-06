@@ -15,4 +15,5 @@ viz_examples/*
 *.tar
 *.pth.tar
 *.csv
+*.txt
 
